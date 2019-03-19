@@ -1,1 +1,1 @@
-this is new changes in second file
+this is second sample file
